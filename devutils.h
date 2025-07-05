@@ -2,6 +2,7 @@
 #define DEVUTILS_H
 
 #include <stdlib.h>
+#include <stdio.h>
 
 // Copied from https://github.com/tsoding/nob.h/blob/main/nob.h
 #define UNUSED(value) (void)(value)
